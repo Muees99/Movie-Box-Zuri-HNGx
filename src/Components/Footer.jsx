@@ -16,7 +16,7 @@ const Footer = () => {
         <span>Privacy & Policy</span>
         <span>Press Room</span>
       </div>
-      <span className='text-gray-700'>&copy; {year} MovieBox </span>
+      <span className='text-gray-700'>&copy; {year} HNGx MovieBox </span>
     </footer>
   )
 }
